@@ -17,4 +17,4 @@
 
 </div>
 
-Currently, I am in the third semester of Information Systems, studying Data Structures in C and Computational Systems.
+Currently, I am in the third semester of Information Systems, studying Data Structures in C and Computational Systems. However, I'm very interested in the cybersecurity field and I am seeking experience in the area.
