@@ -4,9 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenodecarvalho/)
 [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/brenovsky1)
 
-
-![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenovsky&theme=react&show_icons=true)
-
 ## Technologies
 
 <div>
@@ -17,4 +14,4 @@
 
 </div>
 
-Currently, I am in the third semester of Information Systems, studying Data Structures in C and Computational Systems. However, I'm very interested in the cybersecurity field and I am seeking experience in the area.
+Currently, I am in the third semester of Information Systems, studying Data Structures in C and Computational Systems. However, I'm very interested in the Cybersecurity field and I am seeking experience in the area.
